@@ -13,3 +13,5 @@ Instructions:
 
 If dependencies are missing, try running `pip install -r requirements.txt`. 
 
+**Note:**
+App must be running to run tests.
