@@ -4,7 +4,7 @@ users = [
     {
         "name": "Calvin",
         "age": 25,
-        "occupation": "Cognitive Engineer",
+        "occupation": "Software Engineer",
     },
     {
         "name": "Efren",
@@ -13,7 +13,7 @@ users = [
     },
     {
         "name": "Ernest",
-        "age": 19,
-        "occupation": "Student",
+        "age": 22,
+        "occupation": "Product Manager",
     },
 ]
